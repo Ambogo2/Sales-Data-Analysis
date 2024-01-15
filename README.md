@@ -11,3 +11,6 @@ This is a project I did during my intership at [meriskill](https://sites.google.
 5. What product had the higest quantity ordered?
 6. Where do we have the highest orders by city?
 7. What is the breakdown of Sales by City and products?
+
+## Insights
+** total sales revenue of $34.49M.
