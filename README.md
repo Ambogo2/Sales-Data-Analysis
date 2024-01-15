@@ -1,6 +1,7 @@
 # Sales-Data-Analysis
 
 ## Project Overview
+This is a project I did during my intership at [meriskill](https://sites.google.com/view/meriskill/home) and the objective was to Analyze sales data, identift trends and Patterns for business decision making
 
 ## Analysis Questions
 1. What is the total sales generated?
