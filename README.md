@@ -13,4 +13,4 @@ This is a project I did during my intership at [meriskill](https://sites.google.
 7. What is the breakdown of Sales by City and products?
 
 ## Insights
-** total sales revenue of $34.49M.
+- total sales revenue of $34.49M.
